@@ -1,0 +1,18 @@
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\bin\Debug\find a way.exe.config
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\bin\Debug\find a way.exe
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\bin\Debug\find a way.pdb
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find a way.csprojResolveAssemblyReference.cache
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find_a_way.Form1.resources
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find_a_way.Properties.Resources.resources
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find a way.csproj.GenerateResource.Cache
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find a way.exe
+c:\users\shehab eldin\documents\visual studio 2015\Projects\find a way\find a way\obj\Debug\find a way.pdb
+D:\work\my projects\find a way\find a way\bin\Debug\find a way.exe.config
+D:\work\my projects\find a way\find a way\obj\Debug\find a way.exe
+D:\work\my projects\find a way\find a way\obj\Debug\find a way.pdb
+D:\work\my projects\find a way\find a way\bin\Debug\find a way.exe
+D:\work\my projects\find a way\find a way\bin\Debug\find a way.pdb
+D:\work\my projects\find a way\find a way\obj\Debug\find a way.csprojResolveAssemblyReference.cache
+D:\work\my projects\find a way\find a way\obj\Debug\find_a_way.Form1.resources
+D:\work\my projects\find a way\find a way\obj\Debug\find_a_way.Properties.Resources.resources
+D:\work\my projects\find a way\find a way\obj\Debug\find a way.csproj.GenerateResource.Cache
